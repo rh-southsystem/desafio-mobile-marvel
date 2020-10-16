@@ -10,7 +10,7 @@
    # Premissas
     - Repositório Público (Github / Bitbucket / Gitlab); 
     - README (Com setup do projeto caso necessário); 
-    - Código Nativo (Swift / Java / Kotlin); 
+    - Código Nativo (Swift / Kotlin); 
     - Arquitetura MVP ou MVVM; 
     - Testes Unitários (colocar % de cobertura no README); 
     
